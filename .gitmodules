@@ -1,0 +1,6 @@
+[submodule "nall"]
+	path = nall
+	url = https://github.com/ProtoByter/nall
+[submodule "hiro"]
+	path = hiro
+	url = https://github.com/ProtoByter/hiro
